@@ -1,0 +1,14 @@
+{
+  "name": "@we5a/git-package",
+  "version": "1.0.0",
+  "description": "SSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "url": "git://github.com/we5a/git-package.git"
+  }
+}
